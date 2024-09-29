@@ -7,8 +7,11 @@ layout: default
     {% for post in site.posts %}
 
         <li>
-            <a href="{{ post.url }}">
-                <h1>{{ post.title }}</h1>
+            <a href="{{ post.url }}">                
+                <div>
+                    <h1>{{ post.title }}</h1>
+                    <small>Uploaded by {{ post.author }}</small>
+                </div>
             </a>
         </li>
 
