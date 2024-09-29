@@ -1,9 +1,8 @@
 title: Un3x
-description: >
-Let's figure out something with asking 'Why?'.
-I'm posting my personal researchs and projects about reverse engineering.
-Mainly focused on x86, also Windows PE's and several stuffs. 
-
+description: |
+  Let's figure out something with asking 'Why?'.
+  I'm posting my personal researchs and projects about reverse engineering.
+  Mainly focused on x86, also Windows PE's and several stuffs. 
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
