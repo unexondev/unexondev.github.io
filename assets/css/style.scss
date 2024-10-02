@@ -1,4 +1,52 @@
 ---
 ---
 
-@import 'jekyll-theme-hacker';
+@import "{{ site.theme }}";
+
+$main-color: #b5e853;
+
+.author {
+
+    color: $main-color;
+
+}
+
+.tag-container {
+
+    display: inline-block;
+
+}
+
+.post-additional-info {
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-between;
+
+}
+
+.tag-container > i {
+
+    color: $main-color;
+
+}
+
+.post-timestamp {
+
+    color: gray;
+
+}
+
+.danger {
+
+    color: red;
+
+}
+
+.warning {
+
+    color: orange;
+
+}
