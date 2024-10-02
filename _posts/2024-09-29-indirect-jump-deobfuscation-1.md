@@ -94,7 +94,7 @@ CMOVLE      R11, R10
 JMP         R11
 ```
 
-Now, I want you to take a look at these instructions for 2 minutes before following rest of this article. You can figure out something, maybe? If you can't, there's not a problem. I'm already posting this thread to make you figure them out.
+Now, I want you to take a look at these instructions for 2 minutes before following the rest of this article. You can figure out something, maybe? If you can't, there's not a problem. I'm already posting this thread to make you figure them out.
 
 Alright, your time is over. Now let's check it together. First thing that I'm going to do about these lines is to convert them into mathematical equations. After the convertion, results will look like below:
 
